@@ -39,3 +39,6 @@
 <div align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhut-ngnn&show_icons=true&theme=tokyonight">
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-ngnn&layout=donut&size=400x200&theme=dracula">
+</div>
