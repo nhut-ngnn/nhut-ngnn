@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Minh Nhut</h1>
-<h3 align="center">A passionate Data Analysts from Vietnam</h3>
 
 - 🔭 I’m currently learning at **FPT University (HCMC Campus)**
 
