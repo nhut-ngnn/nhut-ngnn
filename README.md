@@ -43,3 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nhut-ngnn&show_icons=true&theme=tokyonight">
 </div>
 
+<div align = "center">
+  <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-ngnn)](https://github.com/anuraghazra/github-readme-stats)
+</div>
