@@ -43,4 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nhut-ngnn&show_icons=true&theme=tokyonight">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-ngnn&layout=pie)](https://github.com/nhut-ngnn/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut-ngnn&layout=compact)
