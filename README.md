@@ -101,9 +101,3 @@
 <br>
 
 <div align='center'>
-
----
-
-<br>
-
-Credit: [Nhut Minh Nguyen](https://github.com/nhut-ngnn)
