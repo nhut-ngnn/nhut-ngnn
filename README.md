@@ -59,7 +59,7 @@
 ---
 
 <br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -80,7 +80,7 @@
 <br>
 <br>
 
-## <b> Connected Infor </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Connected Info </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -95,15 +95,15 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="mailto:minhnhut.ngnn@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:minhnhut.ngnn@gmail.com" target="_blank">
+<a href="https://discord.com/users/1073634073429413900" target="_blank">
 <img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
