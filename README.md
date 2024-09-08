@@ -6,11 +6,14 @@
 
 ## <b>About me</b>
 <br>
+
 - Name: Nhut Minh Nguyen
 - Education: BSc Ungraduated of Artificial Intelligence at FPT University, Vietnam
 - Focuses on the study and development of intelligent systems and algorithms.
 - Works on tasks like machine learning, signal processing, computer vision, natural language processing, and data analysis.
+  
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -59,8 +62,11 @@
 ---
 
 <br>
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+
 
 <div align="center">
 
@@ -100,13 +106,6 @@
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="https://discord.com/users/1073634073429413900" target="_blank">
-<img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</li>
 	
 </ul>
 </div>
@@ -118,3 +117,9 @@
 <br>
 
 <div align='center'>
+
+---
+
+<br>
+
+Credit: [Nhut Minh Nguyen](https://github.com/nhut-ngnn)
