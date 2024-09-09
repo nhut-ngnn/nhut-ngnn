@@ -107,13 +107,13 @@
 	
 </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-<div align='center'>
-<h3><em>Thanks for reading!</em> 😊</h3>
 
 ---
 
+<div align='center'>
+<h3><em>Thanks for reading!</em> 😊</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <div align='left'>
-> GitHub [@nhut-ngnn](https://github.com/nhut-ngnn) &nbsp;&middot;&nbsp;
+> GitHub [@nhut-ngnn](https://github.com/nhut-ngnn)
