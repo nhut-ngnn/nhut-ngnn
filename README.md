@@ -113,7 +113,7 @@
 <div align='center'>
 <h3><em>Thanks for reading!</em> 😊</h3>
 
-```
 ---
-```
-> Github @nhut-ngnn 
+
+<div align='left'>
+>Credit: [Nhut Minh Nguyen](https://github.com/nhut-ngnn)
