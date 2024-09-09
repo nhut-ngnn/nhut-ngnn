@@ -6,8 +6,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> About me
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<br>
-
 <h3>Nhut Minh Nguyen</h3>
 
 <p><strong><em>BSc Candidate in Artificial Intelligence at FPT University, Vietnam</em></strong></p>
