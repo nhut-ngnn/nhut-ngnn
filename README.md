@@ -8,11 +8,22 @@
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <br>
 
-- Name: Nhut Minh Nguyen
-- Education: BSc Ungraduated of Artificial Intelligence at FPT University, Vietnam
-- Focuses on the study and development of intelligent systems and algorithms.
-- Works on tasks like machine learning, signal processing, computer vision, natural language processing, and data analysis.
-  
+<h3>Nhut Minh Nguyen</h3>
+
+<p><strong><em>BSc Candidate in Artificial Intelligence at FPT University, Vietnam</em></strong></p>
+
+<p>I am an aspiring AI enthusiast with a strong passion for developing intelligent systems and algorithms. My areas of focus include:</p>
+
+<ul>
+    <li><strong>Machine Learning</strong>: <em>Designing and implementing models to solve real-world problems.</em></li>
+    <li><strong>Signal Processing</strong>: <em>Enhancing data interpretation and analysis through advanced signal processing techniques.</em></li>
+    <li><strong>Computer Vision</strong>: <em>Building and optimizing systems for object detection, tracking, and recognition.</em></li>
+    <li><strong>Natural Language Processing</strong>: <em>Creating models for language understanding, translation, and speech recognition.</em></li>
+    <li><strong>Data Analysis</strong>: <em>Leveraging data to extract insights and drive decision-making.</em></li>
+</ul>
+
+<p>Currently working on projects that blend these domains to create innovative and impactful solutions.</p>
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -107,3 +118,4 @@
 <br>
 
 <div align='center'>
+<p><em>Thanks for reading!</em> 😊</p>
