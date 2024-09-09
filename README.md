@@ -116,4 +116,4 @@
 ---
 
 <div align='left'>
->Credit: [Nhut Minh Nguyen](https://github.com/nhut-ngnn)
+> GitHub [@nhut-ngnn](https://github.com/nhut-ngnn) &nbsp;&middot;&nbsp;
