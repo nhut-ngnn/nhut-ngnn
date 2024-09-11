@@ -101,7 +101,9 @@
 </li>
 <br>
 <li>
-![Static Badge](https://img.shields.io/badge/ORCID_Nguyen_Minh_Nhut-white?style=for-the-badge&logo=ORCID&link=https%3A%2F%2Forcid.org%2F0009-0003-1281-5346)
+<a href="https://orcid.org/0009-0003-1281-5346" target="_blank">
+<img src="https://img.shields.io/badge/ORCID_Nguyen_Minh_Nhut-white?style=for-the-badge&logo=ORCID" />
+</a>
 </li>
 	
 </ul>
@@ -112,5 +114,6 @@
 <p align = "left">
 	<img src = "https://komarev.com/ghpvc/?username=nhut-ngnn&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
+
 > Feel free to reach out for any inquiries, collaborations, or just to say hello! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's connect and create something amazing together.
 > © Copyright 2024 Nhut Minh Nguyen.
