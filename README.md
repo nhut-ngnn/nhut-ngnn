@@ -81,7 +81,7 @@
 </div>
 
 ## <b> Connected Info </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br><div style="display: flex;">
+<div style="display: flex;">
     <div style="flex: 1;">
         <ul>
             <li>
