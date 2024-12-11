@@ -84,7 +84,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="20%" align="right">
+<td width="20%" align="center">
 
 <p align="left">
     <a>
