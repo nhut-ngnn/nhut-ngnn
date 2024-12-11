@@ -87,7 +87,7 @@
 <td width="20%" align="right">
 
 <p align="left">
-    <a href="https://github.com/rayriffy/apple-music-github-profile">
+    <a>
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000945.0d29adbe544747b48315bd6069a486f2.1338" width="200">
     </a>
 </p>
