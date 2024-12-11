@@ -86,7 +86,7 @@
 <tr border="none">
 <td width="20%" align="center">
 
-<p align="left">
+<p align="center">
     <a>
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000945.0d29adbe544747b48315bd6069a486f2.1338" width="200">
     </a>
