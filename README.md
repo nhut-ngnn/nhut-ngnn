@@ -81,36 +81,48 @@
 </div>
 
 ## <b> Connected Info </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <ul>
-            <li>
-                <a href="mailto:minhnhut.ngnn@gmail.com" target="_blank">
-                    <img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
-                </a>
-            </li>
-        </ul>   
-    </div>
-    <div style="flex: 1;">
-        <ul>
-            <li>
-                <a href="https://orcid.org/0009-0003-1281-5346" target="_blank">
-                    <img src="https://img.shields.io/badge/ORCID%3A_NGUYEN_MINH_NHUT-green?style=for-the-badge&logo=ORCID&logoColor=white" />
-                </a>
-            </li>
-            <br>
-            <li>
-                <a href="https://discord.com/users/1073634073429413929" target="_blank">
-                    <img src="https://img.shields.io/badge/DISCORD%3A_nhut.ngnn-blue?style=for-the-badge&logo=DISCORD&logoColor=white" />
-                </a>
-            </li>
-        </ul>
-    </div>
-</div>
+
+<table align="center">
+<tr border="none">
+<td width="20%" align="right">
+
+<p align="left">
+    <a href="https://github.com/rayriffy/apple-music-github-profile">
+        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000945.0d29adbe544747b48315bd6069a486f2.1338" width="200">
+    </a>
+</p>
+</td>
+<td width="50%" align="left">
+  
+  <a href="mailto:minhnhut.ngnn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://orcid.org/0009-0003-1281-5346" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID%3A_NGUYEN_MINH_NHUT-green?style=for-the-badge&logo=ORCID&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/1073634073429413929" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD%3A_nhut.ngnn-blue?style=for-the-badge&logo=DISCORD&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/minhnhutngnn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%3A_Nhut_Minh_Nguyen-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Nhut-Nguyen-46" target="_blank">
+    <img src="https://img.shields.io/badge/ResearGate%3A_Nhut_Minh_Nguyen-white?style=for-the-badge&logo=researchgate" />
+</a>
+</td>
+</tr>
+</table>
+
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align = "left">
-	<img src = "https://komarev.com/ghpvc/?username=nhut-ngnn&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=nhut-ngnn&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 > Feel free to reach out for any inquiries, collaborations, or just to say hello! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's connect and create something amazing together.
