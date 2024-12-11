@@ -115,7 +115,7 @@
 </a>
 
 <a href="https://nhut-ngnn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GithubPages%3A_nhut.ngnn-black?style=for-the-badge&logo=githubpages" />
+    <img src="https://img.shields.io/badge/GithubPages%3A_nhut--ngnn-black?style=for-the-badge&logo=githubpages" />
 </a>
 
 </td>
