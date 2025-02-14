@@ -82,18 +82,6 @@
 
 ## <b> Connected Info </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<table align="center">
-<tr border="none">
-<td width="20%" align="center">
-
-<p align="center">
-    <a>
-        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000945.0d29adbe544747b48315bd6069a486f2.1338" width="200">
-    </a>
-</p>
-</td>
-<td width="50%" align="left">
-  
   <a href="mailto:minhnhut.ngnn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/minhnhut.ngnn-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -118,9 +106,6 @@
     <img src="https://img.shields.io/badge/GithubPages%3A_nhut--ngnn-black?style=for-the-badge&logo=githubpages" />
 </a>
 
-</td>
-</tr>
-</table>
 
 </p>
 
