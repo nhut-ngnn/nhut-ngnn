@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm Nhut Minh Nguyen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA56F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile+%3C3;Undergraduate+Research+Assistants;Machine+learning%2C+Deep+learning+;Signal+Processing" alt="Typing SVG" /></a>
-</p>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> About me
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
